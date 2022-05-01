@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="socket_programming_windows.cpp">
+    <ClCompile Include="hello_server.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
